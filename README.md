@@ -22,4 +22,4 @@ Mini homepage for a music App
  Save the file and do ```pod install``` in your terminal
 
 ## Finished App
-<img src="https://github.com/asabri97/iOSDS/blob/master/Images/Finished.png" width="400">
+<img src="https://github.com/asabri97/iOSDS/blob/master/Images/auto.png" width="400">
