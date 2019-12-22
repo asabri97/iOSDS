@@ -20,3 +20,6 @@ Mini homepage for a music App
   pod 'ObjectMapper'
  ```  
  Save the file and do ```pod install``` in your terminal
+
+## Finished App
+<img src="https://github.com/asabri97/iOSDS/blob/master/Images/Finished.png" width="400">
