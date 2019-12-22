@@ -24,6 +24,6 @@ Mini homepage for a music App
 ## Finished App
 <img src="https://github.com/asabri97/iOSDS/blob/master/Images/auto.gif" width="200">
 
-##Requirements
+## Requirements
 Language: Swift
 ```Codable``` used to parse the API's for search responses
